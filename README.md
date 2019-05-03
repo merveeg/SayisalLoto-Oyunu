@@ -1,0 +1,2 @@
+# SayisalLoto-Oyunu
+C# kodu
